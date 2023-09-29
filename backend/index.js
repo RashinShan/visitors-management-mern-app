@@ -1,6 +1,6 @@
 
 const mongoose = require('mongoose');
-mongoose.connect('mongodb+srv://shangameing0722:OplBqJTdVHt99NCN@cluster0.wg6tmwa.mongodb.net/portfolioviwers', {
+mongoose.connect('add your atlas mongo uri', {
 	
 	useNewUrlParser: true,
 	useUnifiedTopology: true
